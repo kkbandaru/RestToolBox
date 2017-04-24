@@ -1,4 +1,0 @@
-C:\MyDen\RestTools\RESTTool\Code\RestBox\RestBox.Common\bin\Debug\RestBox.Common.dll
-C:\MyDen\RestTools\RESTTool\Code\RestBox\RestBox.Common\bin\Debug\RestBox.Common.pdb
-C:\MyDen\RestTools\RESTTool\Code\RestBox\RestBox.Common\obj\Debug\RestBox.Common.dll
-C:\MyDen\RestTools\RESTTool\Code\RestBox\RestBox.Common\obj\Debug\RestBox.Common.pdb
